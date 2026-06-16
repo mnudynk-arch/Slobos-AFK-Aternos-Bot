@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "M2te.aternos.me:36636",
+    "ip": "M2te.aternos.me",
     "port": 27586,
     "version": "",
     "try-creative": false
